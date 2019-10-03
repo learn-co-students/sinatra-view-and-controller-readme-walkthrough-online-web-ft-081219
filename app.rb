@@ -18,8 +18,4 @@ class App < Sinatra::Base
     erb :friends
   end
 
-  # post '/friends' do
-  #   erb :friends
-  # end
-
 end
